@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kaibur-deployment
+spec:
+  replicas: 3  
+  selector:
+    matchLabels:
+      app: kaibur
+  template:
+    metadata:
+      labels:
+        app: kaibur
+    spec:
+      containers:
+        - name: kaibur
+          image: jalajasyale123/kaibur
+          ports:
+            - containerPort: 8080
