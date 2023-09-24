@@ -9,6 +9,13 @@ Post
 ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/057b5ea6-088a-4eb7-98e4-fe78fcfe5224)
 
 
+TASK-2:
+![1](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/a6b82131-86b5-48f3-a51c-12f65c8fb603)
+
+![2](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/c77f326f-3c07-4733-b618-e9a40b25093c)
+
+![3](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/44689145-b5fb-43a8-aaa9-d5907cde38a2)
+
 
 
 
