@@ -42,7 +42,7 @@ public ResponseEntity<List<Server>> findAll(){
 
 @CrossOrigin(origins = "*") 
 @GetMapping("/{id}")
-public ResponseEntity<Server> getServerById(@PathVariable int id) {
+public ResponseEntity<Server> getServerById(@PathVariable String id) {
     Optional<Server> server = serverService.getServerById(id);
     
     if (server.isPresent()) {
@@ -66,13 +66,13 @@ public ResponseEntity<List<Server>> getServersByName(@RequestParam String name) 
 
 @CrossOrigin(origins = "*") 
 @DeleteMapping("/{id}")
-public ResponseEntity<Void> deleteServerById(@PathVariable int id) {
+public ResponseEntity<Void> deleteServerById(@PathVariable String id) {
     boolean deleted = serverService.deleteServerById(id);
     
     if (deleted) {
-        return new ResponseEntity<>(HttpStatus.NO_CONTENT); // 204 No Content
+        return new ResponseEntity<>(HttpStatus.NO_CONTENT); 
     } else {
-        return new ResponseEntity<>(HttpStatus.NOT_FOUND); // 404 Not Found
+        return new ResponseEntity<>(HttpStatus.NOT_FOUND); 
     }
 }
 

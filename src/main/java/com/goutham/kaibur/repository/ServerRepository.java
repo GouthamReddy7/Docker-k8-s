@@ -6,7 +6,7 @@ import com.goutham.kaibur.model.Server;
 
 
 
-public interface ServerRepository extends MongoRepository<Server, Integer> {
+public interface ServerRepository extends MongoRepository<Server, String> {
 
 
 }

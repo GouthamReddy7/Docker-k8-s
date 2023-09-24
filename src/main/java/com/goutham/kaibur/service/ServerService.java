@@ -24,7 +24,7 @@ private ServerRepository serverRepository;
 	public List<Server> findAll(){
 		return serverRepository.findAll();
 	} 
-	public Optional<Server> getServerById(int id) {
+	public Optional<Server> getServerById(String id) {
         return serverRepository.findById(id);
     }
 	public List<Server> getServersByName(String name) {
@@ -34,11 +34,11 @@ private ServerRepository serverRepository;
                 .filter(server -> server.getName().contains(name))
                 .collect(Collectors.toList());
     }
-	public boolean deleteServerById(int id) {
+	public boolean deleteServerById(String id) {
         if (serverRepository.existsById(id)) {
             serverRepository.deleteById(id);
-            return true; // Server deleted successfully
+            return true;
         }
-        return false; // Server not found
+        return false; 
     }
 }
