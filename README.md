@@ -1,14 +1,12 @@
 # kaiburr-assignment
 
 Task 1. Java REST API 
- GET
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/3fa6fa22-7858-4fc7-889d-57745e368301)
 
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/77b572b9-849c-4f58-af27-49fa41278953)
+GET
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/3fa6fa22-7858-4fc7-889d-57745e368301)
 
 Post
 ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/057b5ea6-088a-4eb7-98e4-fe78fcfe5224)
-
 
 Delete:
 
