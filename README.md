@@ -3,12 +3,25 @@
 Task 1. Java REST API 
 
 GET
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/3fa6fa22-7858-4fc7-889d-57745e368301)
+![Screenshot 2023-09-23 231416](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/109b7dc4-59fa-463b-8bd8-6bd0a0c08916)
+![Screenshot 2023-09-23 231714](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/b6acee33-b60b-4f50-84f2-a00187e8b5de)
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/8dcfd3a3-2504-4fd1-8ef1-a2c74e352002)
 
 Post
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/057b5ea6-088a-4eb7-98e4-fe78fcfe5224)
+![Screenshot 2023-09-23 231626](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/f195a77d-75b8-4077-8d5a-ef7bf6953ca3)
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/5b74c303-5da9-423a-a087-4e149e6087a7)
+
 
 Delete:
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/9c21f10d-fc31-45e7-890d-7846a86c6b1f)
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/e33698ad-3901-4fc3-ac49-2491064bb12e)
+
+
+Get-By_Name:
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/7a9c5b28-ef26-4477-a659-acaff29d7183)
+
+
+
 
 TASK-2:
 ![1](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/a6b82131-86b5-48f3-a51c-12f65c8fb603)
