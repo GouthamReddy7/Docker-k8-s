@@ -22,15 +22,12 @@ Get-By_Name:
 
 
 
-
 TASK-2:
-![1](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/a6b82131-86b5-48f3-a51c-12f65c8fb603)
+![1](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/2b499358-a3e2-4f6d-aa3c-8a1896fd85c2)
 
-![2](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/c77f326f-3c07-4733-b618-e9a40b25093c)
+![2](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/dc0f01b4-d896-484a-a06d-7126b7cadacc)
 
-![3](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/44689145-b5fb-43a8-aaa9-d5907cde38a2)
-
-
+![3](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/5a40c717-9656-4cb6-99b6-e3e664253de2)
 
 
 
