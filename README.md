@@ -1,4 +1,4 @@
-## REQUESTED TASK##
+## REQUESTED TASK
  search server by name in UI
  
  ![Screenshot 2023-10-21 121841](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/bfec9d29-4752-4982-9d0b-950884ea4bce)
