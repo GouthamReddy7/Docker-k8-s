@@ -1,28 +1,3 @@
-## REQUESTED TASK 
- search server by name in UI
- 
- ![Screenshot 2023-10-21 121841](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/bfec9d29-4752-4982-9d0b-950884ea4bce)
- ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/2ec655ff-3cc1-4eb7-925e-1541b1ed79dc)
-
-deploy to kubernetes
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/75b0e8f6-b388-4a3e-bdbf-d2d6ba29ace8)
-
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/4aaa186c-2ce3-4424-9841-82c961b5680b)
-
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/cf5eec39-94f4-44a0-8e33-37d2d8238bf9)
-
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/c6f3b2a2-742b-43a1-ba58-64b76097412f)
-
-CICD:
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/fff10045-74ec-4d73-8986-235706a628ea)
-
-![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/36abee37-1301-4c34-b987-665c3223c94b)
-
-
-
-
-# kaiburr-assignment
-
 Task 1. Java REST API 
 
 GET
@@ -66,11 +41,33 @@ Task-3:Kubernetes.
 
 ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/4498e0b3-24bb-4a89-b3b6-4b3ae7b5b8c8)
 
+deploy to kubernetes
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/75b0e8f6-b388-4a3e-bdbf-d2d6ba29ace8)
+
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/4aaa186c-2ce3-4424-9841-82c961b5680b)
+
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/cf5eec39-94f4-44a0-8e33-37d2d8238bf9)
+
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/c6f3b2a2-742b-43a1-ba58-64b76097412f)
+
 Task 4. WEB UI Forms.
 ADD LIST
 ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/fb0ab25a-edad-432a-9eae-d6bb6a3fbcca)
-
+ 
 DELETE LIST
 ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/0c617198-c82b-42be-9c55-3ab284201d16)
+
+search server by name in UI
+ 
+ ![Screenshot 2023-10-21 121841](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/bfec9d29-4752-4982-9d0b-950884ea4bce)
+ ![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/2ec655ff-3cc1-4eb7-925e-1541b1ed79dc)
+
+TASK-5
+
+CICD:
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/fff10045-74ec-4d73-8986-235706a628ea)
+
+![image](https://github.com/GouthamReddy7/kaiburr-assignment/assets/103408607/36abee37-1301-4c34-b987-665c3223c94b)
+
 
 
